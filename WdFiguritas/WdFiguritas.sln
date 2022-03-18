@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WdFiguritas", "WdFiguritas.csproj", "{3709EE5C-E706-434B-B9FC-F7F86175E292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3709EE5C-E706-434B-B9FC-F7F86175E292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3709EE5C-E706-434B-B9FC-F7F86175E292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3709EE5C-E706-434B-B9FC-F7F86175E292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3709EE5C-E706-434B-B9FC-F7F86175E292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E2118A-F1A2-4BD5-A8F9-840B80DAC647}
+	EndGlobalSection
+EndGlobal
